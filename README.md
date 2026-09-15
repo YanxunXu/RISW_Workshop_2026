@@ -6,7 +6,7 @@ video, a recorded demo, and slides.
 
 **Jump to:** [Workshop notebooks](#workshop-notebooks) ·
 [Example project](#example-project) · [Tutorial video](#tutorial-video) ·
-[Recorded demo](#recorded-codex-run) · [Slides](#editable-presentation) ·
+[Recorded demo](#recorded-codex-run) · [Demo Slides](#editable-presentation) ·
 [Run the project](#run-the-example-project)
 
 ## Workshop notebooks
