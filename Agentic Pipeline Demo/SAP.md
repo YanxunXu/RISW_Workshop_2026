@@ -1,4 +1,4 @@
-# Statistical Analysis Plan Excerpt
+# Statistical Analysis Plan
 
 ## Study
 
@@ -40,7 +40,7 @@ The primary endpoint will be analyzed using an ANCOVA model:
 CHG = TRT01P + BASE
 ```
 
-The primary treatment contrast is ABC-201 minus Placebo.
+The primary treatment contrast is ABC-201 versus Placebo.
 
 ## Required Dataset Fields
 
