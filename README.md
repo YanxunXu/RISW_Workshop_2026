@@ -1,6 +1,6 @@
 # RISW Workshop 2026 — Code and Example Project
 
-This repository contains the slides and example code notebooks demonstrated in the RISW
+This repository contains the example code notebooks demonstrated in the RISW
 Workshop, along with a biomedical agentic pipeline example project, its tutorial
 video, a recorded demo, and slides.
 
